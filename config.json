@@ -1,14 +1,15 @@
 {
-  "clientId": "",
-  "token": "",
+    "clientId": "",
+    "token": "",
 
-  "parentOpened": "",
-  "Category1": "",
-  "Category2": "",
-  "Category3": "",
+    "parentOpened": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": "",
+    "Category4": "",
 
-  "roleSupport": "",
-  
-  "logsTicket": "",
-  "ticketChannel": ""
+    "roleSupport": "",
+
+    "logsTicket": "",
+    "ticketChannel": "
 }

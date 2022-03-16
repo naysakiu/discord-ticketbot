@@ -55,11 +55,16 @@ module.exports = {
                             {
                                 label: client.config.Category2,
                                 value: client.config.Category2,
-                                emoji: '⚠',
+                                emoji: '🎮',
                             },
                             {
                                 label: client.config.Category3,
                                 value: client.config.Category3,
+                                emoji: '⚠',
+                            },
+                            {
+                                label: client.config.Category4,
+                                value: client.config.Category4,
                                 emoji: '🤖',
                             },
                         ]),
