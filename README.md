@@ -1,17 +1,6 @@
-# Ticket Bot
-
-A discord ticket bot with buttons & slash commands
-- Made in Discord.js v13
-
 ## Installation
 
 You need to have Node.JS 16+
-
-``````bash
-git clone https://github.com/blackknight683/tickety-v2
-cd tickety-v2
-npm i
-``````
 
 ## Configuraton
 
