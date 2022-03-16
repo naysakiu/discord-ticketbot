@@ -25,6 +25,8 @@ npm i
   "Category1": "Name of the first support category",
   "Category2": "Name of the second support category",
   "Category3": "Name of the third support category",
+  "Category4": "Name of the fourth support category",
+
 
   "roleSupport": "id of the support team role",
   
@@ -41,6 +43,3 @@ npm i
 node commands.js # To deploy slash commands in all the servers the bot is in
 node index.js # To start the ticket-bot
 ```
-
-# Made with 💜 by BlackKnight683.
-# Code Inspired From [@Sayrix](https://github.com/Sayrix)
