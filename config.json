@@ -1,14 +1,14 @@
 {
-  "clientId": "897435504927211540",
-  "token": "ODk3NDM1NTA0OTI3MjExNTQw.YWVn8Q._2Hi_ct1Da2-nbX9IynrG2vXQaY",
+  "clientId": "",
+  "token": "",
 
-  "parentOpened": "910553816221515826",
-  "Category1": "Game Hosting",
-  "Category2": "VPS/Dedicated Hosting",
-  "Category3": "Web Hosting",
+  "parentOpened": "",
+  "Category1": "",
+  "Category2": "",
+  "Category3": "",
 
-  "roleSupport": "940702599970172988",
+  "roleSupport": "",
   
-  "logsTicket": "939371872913621042",
-  "ticketChannel": "910553835955691591"
+  "logsTicket": "",
+  "ticketChannel": ""
 }
